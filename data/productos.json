@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nombre": "Poncho",
+    "descripcion": "Talle M, buen estado",
+    "precio": 10000,
+    "imagen": "poncho.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Remera",
+    "descripcion": "Talle S, buen estado",
+    "precio": 8000,
+    "imagen": "remera.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Zapatillas Deportivas",
+    "descripcion": "Talle 39, buen estado",
+    "precio": 12500,
+    "imagen": "zapadepo.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Short Jean",
+    "descripcion": "Talle 36, buen estado",
+    "precio": 5300,
+    "imagen": "pantcorto.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Pantalon",
+    "descripcion": "Talle 40, buen estado",
+    "precio": 7700,
+    "imagen": "pantlargo.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Gorra",
+    "descripcion": "Talle Unico, buen estado",
+    "precio": 4100,
+    "imagen": "gorrunisex.jpg"
+  }
+]
