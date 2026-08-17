@@ -1,11 +1,11 @@
-# 🛍️ Entre Perchas — Feria Americana BA
+# Entre Perchas — Feria Americana BA
 
 Proyecto final del curso de JavaScript de Coderhouse. Es una tienda web
 de ropa usada estilo "feria americana", donde el usuario puede ver un
 catálogo de productos, agregarlos a un carrito de compras y finalizar
 una simulación de compra.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - [x] Catálogo de productos cargado dinámicamente desde un archivo JSON externo (Fetch API + async/await)
 - [x] Renderizado del catálogo en el DOM
@@ -16,7 +16,7 @@ una simulación de compra.
 - [x] Botón "Realizar compra" con confirmación y vaciado del carrito
 - [x] Notificaciones con librería externa (Toastify)
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - HTML5
 - CSS3
@@ -24,7 +24,7 @@ una simulación de compra.
 - [Toastify JS](https://apvarun.github.io/toastify-js/)
 - LocalStorage API
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 feria-americana-ba/
 ├── index.html
@@ -38,21 +38,21 @@ feria-americana-ba/
 ├── img/
 └── README.md
 
-## 💻 Cómo correr el proyecto localmente
+## Cómo correr el proyecto localmente
 
 1.Cloná el repositorio: git clone <https://github.com/javimathesan/feria-americana-ba.git>
 2.Abrí la carpeta del proyecto.
 3.Abrí `index.html` en el navegador (se recomienda usar la extensión "Live Server" de VS Code para evitar problemas con Fetch y archivos locales).
 
-## 🌐 Demo
+## Demo
 
-👉 <https://javimathesan.github.io/feria-americana-ba/>
+ <https://javimathesan.github.io/feria-americana-ba/>
 
-## 🔗 Repositorio
+## Repositorio
 
 <https://github.com/javimathesan/feria-americana-ba>
 
-## 🤔 Reflexión final
+## Reflexión final
 
 Este fue mi proyecto Final de JavaScript de punta a punta, y me sirvió
 para entender cómo se conecta todo: datos, DOM, eventos y persistencia.
@@ -76,6 +76,6 @@ En resumen, me llevo aprendido que planificar antes de codear (estructura,
 archivos, nombres) ahorra mucho tiempo después, y que el carrito, aunque
 parezca "simple", es donde realmente se pone a prueba todo lo aprendido.
 
-## 👤 Autor
+## Autor
 
 Javier Matheus — Curso de JavaScript, Coderhouse
