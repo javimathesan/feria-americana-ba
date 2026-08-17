@@ -111,13 +111,27 @@ body {
   border-bottom: 1px solid #eee;
 }
 
+.item-carrito .item-imagen {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 4px;
+  margin-right: 0.8rem;
+}
+
 .item-carrito .info-item {
   display: flex;
   flex-direction: column;
+  flex: 1;
 }
 
 .item-carrito .nombre-item {
   font-weight: bold;
+}
+
+.item-carrito .cantidad-item {
+  font-size: 0.85rem;
+  color: #666;
 }
 
 .item-carrito .subtotal-item {
@@ -168,5 +182,3 @@ body {
   color: #888;
   padding: 2rem 0;
 }
-
-
