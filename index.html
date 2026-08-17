@@ -13,12 +13,23 @@
   <header class="header">
     <h1>Entre Perchas</h1>
     <p>Ropa de segunda mano, primera calidad</p>
+    <button id="btn-ver-carrito" class="btn-carrito">
+      🛒 Ver Carrito (<span id="contador-carrito">0</span>)
+    </button>
   </header>
 
   <main>
     <section id="catalogo" class="catalogo">
       <!-- Los productos se cargan dinámicamente desde productos.json -->
     </section>
+
+    <aside id="carrito" class="carrito oculto">
+      <h2>Tu Carrito</h2>
+      <div id="lista-carrito"></div>
+      <hr>
+      <p class="total-carrito">Total: <span id="total-carrito">$0,00</span></p>
+      <button id="btn-comprar" class="btn-comprar">Realizar Compra</button>
+    </aside>
   </main>
 
   <footer class="footer">
@@ -33,3 +44,4 @@
   <script src="js/main.js" defer></script>
 </body>
 </html>
+
